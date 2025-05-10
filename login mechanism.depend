@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1678135546 source:c:\users\hp\desktop\portfolio programy na github\c++\programs\login mechanism\mechanizm logowania\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1742165826 source:f:\my portafolio it ulepszona\c++\programs\login mechanism\logger.cpp
+	"logger.hpp"
+	<chrono>
+	<ctime>
+	<iomanip>
+	<sstream>
+
+1742165822 f:\my portafolio it ulepszona\c++\programs\login mechanism\logger.hpp
+	<string>
+	<fstream>
+	<mutex>
+
+1742166140 source:f:\my portafolio it ulepszona\c++\programs\login mechanism\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	"user_manager.hpp"
+	"logger.hpp"
+
+1742165822 f:\my portafolio it ulepszona\c++\programs\login mechanism\user_manager.hpp
+	<string>
+	<vector>
+	<memory>
+
+1742166138 source:f:\my portafolio it ulepszona\c++\programs\login mechanism\user_manager.cpp
+	"user_manager.hpp"
+	<fstream>
+	<algorithm>
+	<functional>
+
