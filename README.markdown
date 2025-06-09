@@ -24,6 +24,8 @@ _A C++ console application for user registration, login, password management, an
 
 **SecureAuth Pro**, developed by Adrian Lesniak, is a robust C++ console-based user management system. It provides essential functionalities including user registration (with the first user automatically designated as an administrator), secure login authentication, password change capabilities, and an admin-exclusive feature to list all registered users. The system emphasizes security through password hashing (using `std::hash` for demonstration purposes) and persists user data in `users.dat`. All significant system events and user actions are meticulously logged to `system.log`. Designed with an object-oriented approach utilizing `UserManager` and `Logger` classes, it features a colorful Windows-specific console interface for an enhanced user experience.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   👤 **User Account Management**:
@@ -49,9 +51,18 @@ _A C++ console application for user registration, login, password management, an
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the login screen, registration process, admin user list, password change interface, and examples of `system.log` and `users.dat` (if human-readable)._
 
-_This section will be updated with screenshots showcasing the login screen, registration process, admin user list, password change interface, and examples of `system.log` and `users.dat` (if human-readable)._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\1a.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
